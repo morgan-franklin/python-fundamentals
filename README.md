@@ -34,9 +34,9 @@ python-fundamentals/
 ## 🎯 Practice Problems Completed
 
 ### HackerRank
-- [ ] Say "Hello, World!" With Python
-- [ ] Python If-Else
-- [ ] Arithmetic Operators
+- [X] Say "Hello, World!" With Python
+- [X] Python If-Else
+- [X] Arithmetic Operators
 - [ ] Loops
 - [ ] List Comprehensions
 - [ ] Find the percentage
