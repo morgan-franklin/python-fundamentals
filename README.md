@@ -34,17 +34,19 @@ python-fundamentals/
 ## 🎯 Practice Problems Completed
 
 ### HackerRank
-- [X] Say "Hello, World!" With Python
-- [X] Python If-Else
-- [X] Arithmetic Operators
-- [ ] Loops
+- [x] Say "Hello, World!" With Python
+- [x] Python If-Else
+- [x] Arithmetic Operators
+- [x] Loops
+- [x] Print Function
+- [x] Find the Runner-Up Score
 - [ ] List Comprehensions
 - [ ] Find the percentage
 - [ ] Nested Lists
 
 ### LeetCode
+- [x] FizzBuzz
 - [ ] Two Sum
-- [ ] FizzBuzz
 - [ ] Valid Anagram
 - [ ] Contains Duplicate
 
